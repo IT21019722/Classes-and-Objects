@@ -13,3 +13,19 @@ Create a a class 'Student'.
 - setStudentNo()
 - assignMarks()
 - calcAvg()
+
+### Access the public functions in the main function
+Get the following inofrmation from 2 students and  
+display the average marks of those 2 students seperately.
+
+**std1**                       
+studentNo=  123  
+marks1=  80  
+marks2=  90  
+marks3=  75  
+
+**std2**  
+studentNo=  234  
+marks1=  65  
+marks2=  78  
+marks3=  70  
