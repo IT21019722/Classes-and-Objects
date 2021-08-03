@@ -9,7 +9,7 @@ Create a a class 'Student'.
 - marks2
 - marks3
 
-**Functions(piblic functions)** of the class **Student**
+**Functions(public functions)** of the class **Student**
 - setStudentNo()
 - assignMarks()
 - calcAvg()
