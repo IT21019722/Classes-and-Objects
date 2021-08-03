@@ -29,3 +29,14 @@ studentNo=  234
 marks1=  65  
 marks2=  78  
 marks3=  70  
+
+## Activity 3
+Implement the Circle class and write a client(main)   
+program to calculate and print the area of a circle.
+
+**Properties** of the class **Class**
+- radius
+
+**Functions** of the class **Circle**
+- setRadius()
+- calcArea()
