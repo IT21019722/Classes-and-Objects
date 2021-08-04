@@ -30,6 +30,19 @@ marks1=  65
 marks2=  78  
 marks3=  70  
 
+## Activity 2
+Implement the class **Rectangle** and write a client(main) program to calculate the area of the rectangle.
+
+**Properties** of class **Rectangle**
+- width
+- length
+
+**Functions** in class **Rectangle**
+- setWidth()
+- setLength()
+- calcArea()
+
+
 ## Activity 3
 Implement the Circle class and write a client(main)   
 program to calculate and print the area of a circle.
