@@ -32,9 +32,9 @@ float Item::getPrice()
   return price;
 }
 
-int main()
+int main() //main program 
 {
-  Item item1;
+  Item item1;   //object created from class Item
   int code;
   char name[20];
   float price;
@@ -42,12 +42,15 @@ int main()
   cin>>code;
   cout<<"Enter the name of item: ";
   cin>>name;
-  item1.setItemDetails(code, name);
   cout<<"Enter the price of item: ";
   cin>>price;
+  
+  item1.setItemDetails(code, name);
   item1.setPrice(price);
   
-  cout<<item1.getItemCode()<<endl;
-  cout<<item1.getPrice()<<endl;
+  cout<<"Item code is: "<<item1.getItemCode()<<endl;
+  cout<<"Item price is: "<<item1.getPrice()<<endl;
+
+  return 0;
 }
 
