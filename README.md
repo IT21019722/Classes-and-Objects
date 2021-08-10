@@ -53,3 +53,31 @@ program to calculate and print the area of a circle.
 **Functions** of the class **Circle**
 - setRadius()
 - calcArea()
+
+## Activity 4
+
+Implement **Item** class and write a client program to get keyboard input from the user.  
+**Properties** of class **Item**
+- -itemCode
+- -Name
+- -Price
+**Functions** of class **Item**
+- +setItemDetails()
+- +setPrice()
+- +getItemCode()
+- +getPrice()
+
+## Activity 5
+Implement **Date** class and write a client program to get keyboard inputs from the suer.
+**Properties** of class **Date**
+- day: int
+- month: int
+- year: int
+
+**Functions** of class **Date**
+- +setDay (d: int): void
+- +setMonth (m: int): void
+- +setYear (y: int): void
+- +getDay(): int
+- +getMonth(): int
+- +getYeat(): int
