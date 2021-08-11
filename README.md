@@ -57,10 +57,12 @@ program to calculate and print the area of a circle.
 ## Activity 4
 
 Implement **Item** class and write a client program to get keyboard input from the user.  
+
+In UML (Unified Modeling Language) class diagram  
 **Properties** of class **Item**
 - -itemCode
 - -Name
-- -Price
+- -Price   
 **Functions** of class **Item**
 - +setItemDetails()
 - +setPrice()
@@ -68,7 +70,9 @@ Implement **Item** class and write a client program to get keyboard input from t
 - +getPrice()
 
 ## Activity 5
-Implement **Date** class and write a client program to get keyboard inputs from the suer.
+Implement **Date** class and write a client program to get keyboard inputs from the suer.  
+
+This is in UML (Unified Modeling Language)class Disagram
 **Properties** of class **Date**
 - day: int
 - month: int
